@@ -1,2 +1,2 @@
-# python-reps
-Works with using python techologies
+# Python reps
+## To check my works, use [this link](https://gitlab.com/toropmatvii/python) to see repositories on GitLab
